@@ -1,12 +1,15 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Marcos Colossi de Oliveira
+-Profissão: Analista de testes
+-Cidade: Cachoeirinha/RS
+-O que faz nas horas vaga: Caminhadas ao ar livre
 -Feedback sobre o curso Qualidade de Software:
+    Muito completo e rico em informações que ajudam no dia a dia.
 -Feedback sobre a plataforma de estudo da EBAC:
-
+    Estável, bem organizada, fácil de usar e possibilita contato com os intrutores para 
+    ajuda com os exercícios.
+Exercício realizado em 24/03/2024
 Obrigado!!!
 
 
